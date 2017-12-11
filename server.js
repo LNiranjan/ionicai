@@ -11,4 +11,4 @@ app.post('/', function(req, res){
 })
 
 
-app.listen(8080, 'https://ionicai.herokuapp.com')
+app.listen(8080,'https://ionicai.herokuapp.com');
